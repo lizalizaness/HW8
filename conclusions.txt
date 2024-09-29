@@ -1,0 +1,7 @@
+Conclusion:
+
+The first script is designed to sort three integer variables using a specific approach, which was intresting to work with. By limiting myself to only three simple 'if' statements without relying on more complex structures like 'else' or 'elif', which I usually used in my previous homeworks or projects. Actually, that's really emphasize the pretty simplicity of Python, as anyone can programming without knowing the more advanced commands. 
+
+The second task was satisfying, as it gives the understanding of 'type' function and how to cope with different data types (a really needed and valid skill for a programmer/data analyst). During completing the task, I also get to know with the importance of the condition checking. Counting the strings not only served a practical purpose but also helped me to appreciate how to work with different data types, which is common in real-world applications (acually, when I've done a diploma work, I stuggled a lot with text strings, so the understanding of this function and overall process is cruical).
+
+Overall, this project has been a valuable experience, that helped me to renew the experience of working with variables. I faced some challenges, particularly with the restrictions on control ifs, but I've efficientle overcoming these struggles. I feel more confident in my ability to write clean codes. 
